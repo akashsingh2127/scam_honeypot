@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.env
+
+# Logs
+*.log
+
+# IDE/Editor settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test output / temporary files
+*.tmp
+*.bak
+*.swp
+
+# Pytest cache
+.pytest_cache/
